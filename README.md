@@ -1,7 +1,6 @@
 # MI-PAGINA-WEB
 Mi primera pagina web.
 
-
 <!DOCTYPE html>
 <html lang="es-ES">
 <head>
