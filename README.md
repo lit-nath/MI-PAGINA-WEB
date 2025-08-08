@@ -26,6 +26,7 @@ filter: brightness(0.8);
 body {
     background: 
         linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), /* capa oscura */
+        
         url("wendy.jpg") center center no-repeat; /* tu foto */
     background-size: cover;
 }
