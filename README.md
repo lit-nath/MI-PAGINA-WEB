@@ -2,7 +2,6 @@
 Mi primera pagina web.
 
 
-
 <html lang="es-ES">
 <head>
     <meta charset="UTF-8">
